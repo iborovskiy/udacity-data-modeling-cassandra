@@ -1,0 +1,6 @@
+.github/**
+__MACOSX/**
+event_data/**
+__pycache__/**
+.ipynb_checkpoints/**
+event_datafile_new.xlsx
